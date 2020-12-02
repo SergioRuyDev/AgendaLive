@@ -8,7 +8,7 @@ RESTful API for a Employee list web application.
 
 ## Functionalities
 
-:bell: Full CRUD API
+:bell: WEBFLUX API
 :bell: Schedule Youtube links
 
 ## Steps and Requirements to build and run the Project
@@ -18,9 +18,9 @@ RESTful API for a Employee list web application.
 https://github.com/SergioRuyDev/AgendaLive.git
 ```
 
-**2. Create Mysql database and execute**
+**2. Create MongoDB database and execute**
 
-**3. Change mysql username and password as per your installation**
+**3. Change mongoDB username and password as per your installation**
 
 + open `src/main/resources/application.properties`
 + change `spring.datasource.username` and `spring.datasource.password` as per your mysql installation
