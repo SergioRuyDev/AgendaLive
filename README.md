@@ -20,10 +20,10 @@ https://github.com/SergioRuyDev/AgendaLive.git
 
 **2. Create MongoDB database and execute**
 
-**3. Change mongoDB username and password as per your installation**
+**3. Change mongoDB host and port as per your installation**
 
 + open `src/main/resources/application.properties`
-+ change `spring.datasource.username` and `spring.datasource.password` as per your mysql installation
++ change `spring.data.mongodb.host=` and `spring.data.mongodb.port` as per your mongoDB installation
 
 **4. Run the app using maven**
 
