@@ -8,7 +8,6 @@ RESTful API for a Employee list web application.
 
 ## Functionalities
 
-:bell: WEBFLUX API
 :bell: Schedule Youtube links
 
 ## Steps and Requirements to build and run the Project
