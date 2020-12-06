@@ -1,6 +1,6 @@
-package com.apirest.AgendaLive.repository;
+package com.apirest.ScheduleLive.repository;
 
-import com.apirest.AgendaLive.document.LiveDocument;
+import com.apirest.ScheduleLive.document.LiveDocument;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.mongodb.repository.MongoRepository;

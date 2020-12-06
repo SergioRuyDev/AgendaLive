@@ -1,11 +1,11 @@
-package com.apirest.AgendaLive.document;
+package com.apirest.ScheduleLive.document;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.time.LocalDateTime;
 
-//O package Document funciona como o "Model" da aplicação
+// This package Document work like a "Model" class.
 
 @Document
 public class LiveDocument {

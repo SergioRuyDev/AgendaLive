@@ -1,10 +1,10 @@
-package com.apirest.AgendaLive;
+package com.apirest.ScheduleLive;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AgendaLiveApplicationTests {
+class ScheduleLiveApplicationTests {
 
 	@Test
 	void contextLoads() {

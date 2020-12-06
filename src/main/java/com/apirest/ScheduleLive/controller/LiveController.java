@@ -1,7 +1,7 @@
-package com.apirest.AgendaLive.controller;
+package com.apirest.ScheduleLive.controller;
 
-import com.apirest.AgendaLive.document.LiveDocument;
-import com.apirest.AgendaLive.service.LiveService;
+import com.apirest.ScheduleLive.document.LiveDocument;
+import com.apirest.ScheduleLive.service.LiveService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

@@ -1,13 +1,13 @@
-package com.apirest.AgendaLive;
+package com.apirest.ScheduleLive;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AgendaLiveApplication {
+public class ScheduleLiveApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AgendaLiveApplication.class, args);
+		SpringApplication.run(ScheduleLiveApplication.class, args);
 	}
 
 }
