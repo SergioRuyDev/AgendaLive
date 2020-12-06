@@ -1,10 +1,10 @@
-# AgendaLive
-Api Rest de agendamento de Lives do YouTube.
+# ScheduleLive
+Api Rest
 
 
 ## Description of Project
 
-RESTful API for a Employee list web application. 
+RESTful API for schedule live from Youtube. 
 
 ## Functionalities
 
@@ -14,7 +14,7 @@ RESTful API for a Employee list web application.
 
 **1. Clone the application**
 ```bash
-https://github.com/SergioRuyDev/AgendaLive.git
+https://github.com/SergioRuyDev/ScheduleLive.git
 ```
 
 **2. Create MongoDB database and execute**
@@ -27,6 +27,6 @@ https://github.com/SergioRuyDev/AgendaLive.git
 **4. Run the app using maven**
 
 ```bash
-mvn spring-boot:run or src/main/java/com.spring.AgendaLive/AgendaLive:run
+mvn spring-boot:run or src/main/java/com.spring.ScheduleLive/ScheduleLive:run
 ```
 The app will start running at <http://localhost:8080>
